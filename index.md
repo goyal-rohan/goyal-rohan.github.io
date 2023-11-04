@@ -18,7 +18,7 @@ I am a final year undergraduate student at Chennai Mathematical Insititute pursu
 ## Olympiad and Outreach
 
 - **Indian Mathematical Olympiads:**  I am currently also quite involved with Mathematical Olympiads in India. I help with team training for IMO and EGMO, problem selection, problem proposing and organizing selection camps from the national stage. I was also fortunate to be the deputy leader for our team at [EGMO 2023](https://www.egmo.org/egmos/egmo12/countries/country35/). If you wish to help or support the EGMO program in India, proposing or teaching, please feel free to reach out! I also particpated in Mathematical Olympiads as a student and represented India at the IMO in 2021. I am now enjoying the other side of activities and not having to stress about exams :D
-- 
+  
 - **Outreach:**  I am also interested in understanding and improving school education in India especially in Mathematics and Computer Science. I want to understand how logical reasoning, puzzle solving and other aspects of problem solving can be inculcated into students at the grassroots level. I am also interested in increasing opportunities, awareness and recogonition for students who demonstrate extraordinary interest or capability in STEM fields.
   
 Most of my activities till now have only catered to students who have demonstrated extra-ordinary talent in Mathematics mostly through Olympiads and other competitive exams. I would be extremely interested in any opportunities to work on more grassroots' level for Mathematics education, Computational and Logical Thinking, Problem Solving etc. **If you have any such opportunities where my experience would be useful, please feel free to reach out**. For a list of activities I have been involved in, please check my cv.
