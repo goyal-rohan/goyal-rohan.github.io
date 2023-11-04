@@ -13,6 +13,7 @@ I am a final year undergraduate student at Chennai Mathematical Insititute pursu
 - **Extremal Combinatorics:** Sunflower Conjecture, Ramsey Theory etc.
 - **Algebra and Computation:** Computational Group Theory, Ring Theory etc.
 - **Approximaton Algorithms:** Mix of randomness and approximation both in online and offline settings.
+- Anything with a mix of Combinatorics, Algebra and Randomization!
 
 ## Olympiad and Outreach
 
