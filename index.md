@@ -41,7 +41,7 @@ Most of my activities till now have only catered to students who have demonstrat
 
 ## Some Olympiad Writings:
 
-Please visit [Old blog](https://rgtdfg.blogspot.com/p/handouts.html) for a list of Olympiad writings. (mostly outdated right now but I hope to update it soon.)
+Please visit [my old blog](https://rgtdfg.blogspot.com/p/handouts.html) for a list of Olympiad writings. (mostly outdated right now but I hope to update it soon.)
 
 ## Talks and Achievements:
 Please check my cv downloadable from the sidepane for information.
