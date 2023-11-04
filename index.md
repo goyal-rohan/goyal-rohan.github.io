@@ -4,15 +4,25 @@ layout: homepage
 
 ## About Me
 
-I am a final year undergraduate student in Mathematics and Theoretical Computer Science at Chennai Mathematical Institute.
+I am a final year undergraduate student in Mathematics and Theoretical Computer Science at Chennai Mathematical Institute. I am widely interested in all areas of Theoretical Computer Science. I have widely explored and enjoyed the following areas:
 
 ## Research Interests
 
-- **Coding Theory:** 
-- **Pseudorandomness:**
-- **Extremal Combinatorics:**
-- **Algebra and Computation**
-- **Games on Graphs:**
+- **Coding Theory:** Error Correcting Codes, Fast Algorithms for decoding, encoding, testing etc. and Cryptographic and other applications.
+- **Extremal Combinatorics:** Sunflower Conjecture, Ramsey Theory etc.
+- **Algebra and Computation:** Computational Group Theory, Ring Theory etc.
+- **Approximaton Algorithms:** Mix of randomness and approximation both in online and offline settings.
+
+## Olympiad and Outreach
+
+- **Indian Mathematical Olympiads:**  I participated in Mathematical Olympiads as a student in high school and have been involved with various activities like problem proposing, teaching, grading, organizing camps etc. Olympiads are something I really enjoyed as a student and quite enjoy the other side of things as well now :D
+- **Outreach:**  I want to work on improving the quality of the mathematics education, giving students more opportunities, improving the gender ratio in Mathematics etc. For these ambitions, I have been involved with many outreach activities:
+    + **Championship of Mathematical and Logical Games:** We organized the event in India with over 3000 participants with the help of the Inshorts group and accompanied some of the best performers to the International finals at EPFL, Switzerland in the 2021-2022 cycle. Most importantly, we also had nearly a 1:1 gender ratio!
+    + **Online Math Club:** We have created over 100 videos on topics in Mathematical Olympiads, Higher Mathematics and some high school topics. These videos are usually lectures which are later uploaded on Youtube. We also temporarily ran a blog. [OMC YouTube](https://www.youtube.com/@OMath/) [Website](omath.club)
+    + **Sophie Fellowship:** In 2021, a few friends and I started a free of cost program for students interested in participating in Mathematical Olympiads and provided them resources and took lectures. Since then, the program has continued and been run by earlier students. I only serve in an advisory capacity now.
+    + **Other:** I have organized camps, taken lectures etc for students in high school, middle school etc. I also individually instruct some students for Mathematical Olympiads.
+
+
 
 ## News
  
