@@ -27,5 +27,3 @@ I am a final year undergraduate student in Mathematics and Theoretical Computer 
 - **[July. 2021]** Represented India at IMO 2021 and received a bronze medal.
 
 {% include_relative _includes/publications.md %}
-
-[comment]: # ({% include_relative _includes/services.md %})
