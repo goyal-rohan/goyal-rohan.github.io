@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a final year undergraduate student in Mathematics and Theoretical Computer Science at Chennai Mathematical Institute. I am widely interested in all areas of Theoretical Computer Science. I have widely explored and enjoyed the following areas:
+I am a final year undergraduate student at Chennai Mathematical Insititute pursuing a BSc. in Mathematics and Theoretical Computer Science. I am widely interested in Theoretical Computer Science and Combinatorics. I was lucky enough to spend my summer in 2023 at TIFR, Mumbai interning under Prahladh Harsha and got to interact with so many wonderful people like Mrinal Kumar, Ramprasad Saptarshi and Jaikumar Radhakrishnan! I also got to interact with the PhD. students at TIFR and am extremely grateful for the same. This opportunity also led to me working on my first ever paper! Currently, I am applying to PhD programs for research in Computer Science.
+
 
 ## Research Interests
 
@@ -15,13 +16,12 @@ I am a final year undergraduate student in Mathematics and Theoretical Computer 
 
 ## Olympiad and Outreach
 
-- **Indian Mathematical Olympiads:**  I participated in Mathematical Olympiads as a student in high school and have been involved with various activities like problem proposing, teaching, grading, organizing camps etc. Olympiads are something I really enjoyed as a student and quite enjoy the other side of things as well now :D
-- **Outreach:**  I want to work on improving the quality of the mathematics education, giving students more opportunities, improving the gender ratio in Mathematics etc. Most of my activities till now have only catered to students who have demonstrated extra-ordinary talent in Mathematics mostly through Olympiads and other competitive exams. I would be extremely interested in any opportunities to work on more grassroots' level for Mathematics education, Computational and Logical Thinking, Problem Solving etc. **If you have any such opportunities where my experience would be useful, please feel free to reach out**. 
-- Some outreach activities I have been involved with:
-    + **Championship of Mathematical and Logical Games:** We organized the event in India with over 3000 participants with the help of the Inshorts group and accompanied some of the best performers to the International finals at EPFL, Switzerland in the 2021-2022 cycle. Most importantly, we also had nearly a 1:1 gender ratio!
-    + **Online Math Club:** We have created over 100 videos on topics in Mathematical Olympiads, Higher Mathematics and some high school topics. These videos are usually lectures which are later uploaded on Youtube. We also temporarily ran a blog. [OMC YouTube](https://www.youtube.com/@OMath/) [Website](omath.club)
-    + **Sophie Fellowship:** In 2021, a few friends and I started a free of cost program for students interested in participating in Mathematical Olympiads and provided them resources and took lectures. Since then, the program has continued and been run by earlier students. I only serve in an advisory capacity now.
-    + **Other:** I have organized camps, taken lectures etc for students in high school, middle school etc. I also individually instruct some students for Mathematical Olympiads.
+- **Indian Mathematical Olympiads:**  I am currently also quite involved with Mathematical Olympiads in India. I help with team training, problem selection, problem proposing and organizing selection camps. I was also fortunate to be the deputy leader for our team at [EGMO 2023](https://www.egmo.org/egmos/egmo12/countries/country35/). If you wish to help or support the EGMO program in India, proposing or teaching, please feel free to reach out! I also particpated in Mathematical Olympiads as a student and represented India at the IMO in 2021. I am now enjoying the other side of activities and not having to stress about exams :D
+- 
+- **Outreach:**  I am also interested in understanding and improving school education in India especially in Mathematics and Computer Science. I want to understand how logical reasoning, puzzle solving and other aspects of problem solving can be inculcated into students at the grassroots level. I am also interested in increasing opportunities, awareness and recogonition for students who demonstrate extraordinary interest or capability in STEM fields.
+  
+Most of my activities till now have only catered to students who have demonstrated extra-ordinary talent in Mathematics mostly through Olympiads and other competitive exams. I would be extremely interested in any opportunities to work on more grassroots' level for Mathematics education, Computational and Logical Thinking, Problem Solving etc. **If you have any such opportunities where my experience would be useful, please feel free to reach out**. For a list of activities I have been involved in, please check my cv.
+
 
 
 
@@ -38,6 +38,13 @@ I am a final year undergraduate student in Mathematics and Theoretical Computer 
 - **[July. 2021]** Represented India at IMO 2021 and received a bronze medal.
 
 
+## Some Olympiad Writings:
+
+Please visit [Old blog](https://rgtdfg.blogspot.com/p/handouts.html) for a list of Olympiad writings. (mostly outdated right now but I hope to update it soon.)
+
+## Talks and Achievements:
+Please check my cv downloadable from the sidepane for information.
+
 ## Coursework:
 - **Theoretical Computer Science:**
     * **[Fall 2023]**: Algorithmic Coding Theory 2, Timed Automata, Advanced Algorithms
@@ -52,9 +59,10 @@ I am a final year undergraduate student in Mathematics and Theoretical Computer 
     * **[Spring 2022]**: Group Theory, Probability, Analysis 2
     * **[Fall 2021]**: Linear Algebra, Analysis 1
 
+- **TAed**
+    * **[Fall 2023]**: Theory of Computation
+    * **[Spring 2022]**: Complexity Theory 1, Discrete Mathematics
+
 - **Other Courses**:
     * German 1 (Fall 2023), English (Fall 2021), Classical Mechanics (Fall 2021)
 {% include_relative _includes/publications.md %}
-
-## Talks and Achievements:
-Please check my cv downloadable from the sidepane for information.
