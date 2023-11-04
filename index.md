@@ -55,3 +55,6 @@ I am a final year undergraduate student in Mathematics and Theoretical Computer 
 - **Other Courses**:
     * German 1 (Fall 2023), English (Fall 2021), Classical Mechanics (Fall 2021)
 {% include_relative _includes/publications.md %}
+
+## Talks and Achievements:
+Please check my cv downloadable from the sidepane for information.
