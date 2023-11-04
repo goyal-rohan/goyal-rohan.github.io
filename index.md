@@ -28,4 +28,4 @@ I am a final year undergraduate student in Mathematics and Theoretical Computer 
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+[comment]: # ({% include_relative _includes/services.md %})
