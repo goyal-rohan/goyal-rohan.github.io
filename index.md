@@ -47,7 +47,7 @@ Please visit [my old blog](https://rgtdfg.blogspot.com/p/handouts.html) for a li
 Please check my cv downloadable from the sidepane for information.
 
 ## Other Interests:
-I love playing chess and badminton. I am also interested in watching all kinds of sports: archery, cricket, figure skating, football (for Americans: soccer) etc. I am love watching movies, reading novels etc. More recently, I have gotten more and more into reading historical and non fictional books but still enjoy the occasional fantasy, fiction, etc. I am also a potterhead :p. 
+I love playing chess and badminton. I am also interested in watching all kinds of sports: archery, cricket, figure skating, football (for Americans: soccer) etc. I also love watching movies, reading novels etc. More recently, I have gotten more and more into reading historical and non fictional books but still enjoy the occasional fantasy, fiction, etc. I am also a potterhead :p. 
 
 ## Coursework:
 - **Theoretical Computer Science:**
