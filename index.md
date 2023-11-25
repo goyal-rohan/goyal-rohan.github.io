@@ -10,9 +10,9 @@ I am a final year undergraduate student at Chennai Mathematical Insititute pursu
 ## Research Interests
 
 - **Coding Theory:** Error Correcting Codes, Fast Algorithms for decoding, encoding, testing etc. along with Cryptographic and other applications.
-- **Extremal Combinatorics:** Sunflower Conjecture, Ramsey Theory etc.
-- **Expanders and Applications:** High Dimensional expanders; uses in sampling, random walks, counting, coding etc.
-- **Algebra and Computation:** Computational Group Theory, Ring Theory etc.
+- **Combinatorics:** Additive, algebraic and extremal; Sunflower Conjecture, Ramsey Theory etc.
+- **Expanders and Applications:** High Dimensional expanders; applications in sampling, random walks, counting, coding etc.
+- **Algebra and Computation:** Computational Group, Number, and Ring theory.
 - **Approximaton Algorithms (and hardness):** Mix of randomness and approximation both in online and offline settings; hardness of approximation.
 - Anything with a mix of Combinatorics, Algebra and Randomization!
 
@@ -22,10 +22,7 @@ I am a final year undergraduate student at Chennai Mathematical Insititute pursu
   
 - **Outreach:**  I am also interested in understanding and improving school education in India especially in Mathematics and Computer Science. I want to understand how logical reasoning, puzzle solving and other aspects of problem solving can be inculcated into students at the grassroots level. I am also interested in increasing opportunities, awareness and recogonition for students who demonstrate extraordinary interest or capability in STEM fields.
   
-Most of my activities till now have only catered to students who have demonstrated extra-ordinary talent in Mathematics mostly through Olympiads and other competitive exams. I would be extremely interested in any opportunities to work on more grassroots' level for Mathematics education, Computational and Logical Thinking, Problem Solving etc. **If you have any such opportunities where my experience would be useful, please feel free to reach out**. For a list of activities I have been involved in, please check my cv.
-
-
-
+Most of my activities till now have only catered to students who have demonstrated extra-ordinary talent in Mathematics mostly through Olympiads and other competitive exams. I would be extremely interested in any opportunities to work on more grassroots' level for Mathematics education, Computational and Logical Thinking, Problem Solving etc. **If you have any such opportunities where my experience would be useful, please feel free to reach out**. For a list of activities I have been involved in, please check my [cv](assets/files/rohan-cv.pdf).
 
 ## News
  
@@ -42,10 +39,10 @@ Most of my activities till now have only catered to students who have demonstrat
 
 ## Some Olympiad Writings:
 
-Please visit [my old blog](https://rgtdfg.blogspot.com/p/handouts.html) for a list of Olympiad writings. (mostly outdated right now but I hope to update it soon.)
+Please visit [my old blog](https://rgtdfg.blogspot.com/p/handouts.html) for a list of Olympiad writings. (mostly outdated right now but I hope to update it soon. I don't like most of them anymore either as they are quite terse and hard to read.)
 
 ## Talks and Achievements:
-Please check my cv downloadable from the sidepane for information.
+Please check my [cv](assets/files/rohan-cv.pdf).
 
 ## Other Interests:
 I love playing chess and badminton. I am also interested in watching all kinds of sports: archery, cricket, figure skating, football (for Americans: soccer) etc. I also love watching movies, reading novels etc. More recently, I have gotten more and more into reading historical and non fictional books but still enjoy the occasional fantasy, fiction, etc. I am also a potterhead :p. 
