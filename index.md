@@ -16,6 +16,10 @@ I am a final year undergraduate student at Chennai Mathematical Insititute pursu
 - **Approximaton Algorithms (and hardness):** Mix of randomness and approximation both in online and offline settings; hardness of approximation.
 - Anything with a mix of Combinatorics, Algebra and Randomization!
 
+## Publications:
+- **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes**       [ECCC](https://eccc.weizmann.ac.il/report/2023/185/)
+  with Prahladh Harsha, Mrinal Kumar and Ashutosh Shankar 
+
 ## Olympiad and Outreach
 
 - **Indian Mathematical Olympiads:**  I am currently also quite involved with Mathematical Olympiads in India. I help with team training for IMO and EGMO, problem selection, problem proposing and organizing selection camps from the national stage. I was also fortunate to be the deputy leader for our team at [EGMO 2023](https://www.egmo.org/egmos/egmo12/countries/country35/). If you wish to help or support the EGMO program in India, proposing or teaching, please feel free to reach out! I also particpated in Mathematical Olympiads as a student and represented India at the IMO in 2021. I am now enjoying the other side of activities and not having to stress about exams :D
@@ -67,4 +71,3 @@ I love playing chess and badminton. I am also interested in watching all kinds o
 
 - **Other Courses**:
     * German 1 (Fall 2023), English (Fall 2021), Classical Mechanics (Fall 2021)
-{% include_relative _includes/publications.md %}
