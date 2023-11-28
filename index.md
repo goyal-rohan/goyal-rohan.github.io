@@ -17,7 +17,7 @@ I am a final year undergraduate student at Chennai Mathematical Insititute pursu
 - Anything with a mix of Combinatorics, Algebra and Randomization!
 
 ## Publications:
-- **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes**   [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)]{style="float:right"} \
+- **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes**   [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] \
   with Prahladh Harsha, Mrinal Kumar and Ashutosh Shankar 
 
 ## Olympiad and Outreach
