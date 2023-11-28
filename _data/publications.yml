@@ -1,1 +1,7 @@
 main:
+  - title: Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes
+      authors: with Prahladh Harsha, Mrinal Kumar, and Ashutosh Shankar
+#      conference_short: STOC 2024
+#      conference: 56th Annual ACM Symposium on Theory of Computing
+      ECCC: https://eccc.weizmann.ac.il/report/2023/185/
+      pdf: https://eccc.weizmann.ac.il/report/2023/185/download 

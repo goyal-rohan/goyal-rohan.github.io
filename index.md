@@ -12,7 +12,7 @@ I am a final year undergraduate student at Chennai Mathematical Insititute pursu
 - **Coding Theory:** Error Correcting Codes, Fast Algorithms for decoding, encoding, testing etc. along with Cryptographic and other applications.
 - **Combinatorics:** Additive, algebraic and extremal; Sunflower Conjecture, Ramsey Theory etc.
 - **Expanders and Applications:** High Dimensional expanders; applications in sampling, random walks, counting, coding etc.
-- **Algebra and Computation:** Computational Group, Number, and Ring theory.
+- **Algebra and Computation:** Computational Ring and Number Theory; Graph Isomorphism and Computational Group Theory
 - **Approximaton Algorithms (and hardness):** Mix of randomness and approximation both in online and offline settings; hardness of approximation.
 - Anything with a mix of Combinatorics, Algebra and Randomization!
 
