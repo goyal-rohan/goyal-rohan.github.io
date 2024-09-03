@@ -47,6 +47,3 @@ Please visit [my old blog](https://rgtdfg.blogspot.com/p/handouts.html) for a li
 
 ## Talks and Achievements:
 Please check my [cv](assets/files/rohan-cv.pdf).
-
-## Other Interests:
-I love playing chess and badminton. I am also interested in watching all kinds of sports: archery, cricket, figure skating, football (for Americans: soccer) etc.
