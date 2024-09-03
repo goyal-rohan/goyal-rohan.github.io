@@ -32,19 +32,13 @@ Most of my activities till now have only catered to students who have demonstrat
 ## News
  
 - **[September 2024]** Started my PhD at MIT! 
-- **[July 2024]**: Graduated from CMI!
 - **[July 2024]**: Participated in IMO 2024 as the Observer A for the Indian team. This was our best ever performance with country rank 4 and 4 gold medals. [India at IMO 2024](https://www.imo-official.org/team_r.aspx?code=IND&year=2024) 
 - **[May-June 2024]** Interned at IRIF in Paris under [David Saulpic](https://www.normalesup.org/~saulpic/) and [Frédéric Magniez](https://irif.fr/~magniez/) 
 - **[May 2024]** Finished my undergrad program at CMI.
-- **[Dec. 2023]** Organizing EGMO team selection and training camp at CMI again :P
-- **[May 2023]** Started my summer internship at TIFR under Prof. Prahladh Harsha
-- **[May 2023]** Got to attend IMOTC 2023 as a resource person.
-- **[Apr. 2023]** Was the Deputy Leader for the Indian team at EGMO 2023.
-- **[Dec. 2022]** We conducted EGMO team selection and training camp at CMI.
-- **[Dec. 2022]** Attended FSTTCS 2022 and the "Algorithms under Uncertainty" workshop. 
-- **[Aug. 2022]** Accompanied the Indian contingent to the 36th Championship of Mathematical and Logical Games which we organized in India.
+- **[May 2023]** Started my summer internship at TIFR under Prof. Prahladh Harsha.
+- **[Apr. 2023]** Participated in EGMO 2023 as the Deputy Leader for the Indian team.
 - **[Sept. 2021]** Started my undergraduate studies at CMI.
-- **[July. 2021]** Represented India at IMO 2021 and received a bronze medal.
+- **[July 2021]** Represented India at IMO 2021.
 
 
 ## Some Olympiad Writings:
