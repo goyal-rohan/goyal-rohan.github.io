@@ -14,7 +14,7 @@ Before this, I did my BSc.(Hons) from Chennai Mathematical Institute. During my 
 - **Coding Theory and Cryptography**
 - **High Dimensional Expanders and Sampling**
 - **Algebra and Computation**
-- **Approximaton and randomize algorithms (and hardness)**
+- **Approximaton and randomized algorithms (and hardness)**
 - Anything with a mix of Combinatorics, Algebra and Randomization!
 
 ## Publications:
@@ -23,7 +23,7 @@ Before this, I did my BSc.(Hons) from Chennai Mathematical Institute. During my 
 
 ## Olympiad and Outreach
 
-- **Indian Mathematical Olympiads:**  I am currently also quite involved with Mathematical Olympiads in India. I help with team training for IMO and EGMO, problem selection, problem proposing and organizing selection camps from the national stage. I was also fortunate to be the deputy leader for our team at [EGMO 2023](https://www.egmo.org/egmos/egmo12/countries/country35/). If you wish to help or support the EGMO program in India, proposing or teaching, please feel free to reach out! I also particpated in Mathematical Olympiads as a student and represented India at the IMO in 2021. I am now enjoying the other side of activities and not having to stress about exams :D
+- **Indian Mathematical Olympiads:**  I am currently also quite involved with Mathematical Olympiads in India. I help with team training for IMO and EGMO, problem selection, problem proposing and organizing selection camps from the national stage. If you wish to help or support the EGMO program in India, proposing or teaching, please feel free to reach out!
   
 - **Outreach:**  I am also interested in understanding and improving school education in India especially in Mathematics and Computer Science. I want to understand how logical reasoning, puzzle solving and other aspects of problem solving can be inculcated into students at the grassroots level. I am also interested in increasing opportunities, awareness and recogonition for students who demonstrate extraordinary interest or capability in STEM fields.
   
@@ -31,6 +31,11 @@ Most of my activities till now have only catered to students who have demonstrat
 
 ## News
  
+- **[September 2024]** Started my PhD at MIT! 
+- **[July 2024]**: Graduated from CMI!
+- **[July 2024]**: Participated in IMO 2024 as the Observer A for the Indian team. This was our best ever performance with country rank 4 and 4 gold medals. [India at IMO 2024](https://www.imo-official.org/team_r.aspx?code=IND&year=2024) 
+- **[May-June 2024]** Interned at IRIF in Paris under [David Saulpic](https://www.normalesup.org/~saulpic/) and [Frédéric Magniez](https://irif.fr/~magniez/) 
+- **[May 2024]** Finished my undergrad program at CMI.
 - **[Dec. 2023]** Organizing EGMO team selection and training camp at CMI again :P
 - **[May 2023]** Started my summer internship at TIFR under Prof. Prahladh Harsha
 - **[May 2023]** Got to attend IMOTC 2023 as a resource person.
@@ -50,25 +55,4 @@ Please visit [my old blog](https://rgtdfg.blogspot.com/p/handouts.html) for a li
 Please check my [cv](assets/files/rohan-cv.pdf).
 
 ## Other Interests:
-I love playing chess and badminton. I am also interested in watching all kinds of sports: archery, cricket, figure skating, football (for Americans: soccer) etc. I also love watching movies, reading novels etc. More recently, I have gotten more and more into reading historical and non fictional books but still enjoy the occasional fantasy, fiction, etc. I am also a potterhead :p. 
-
-## Coursework:
-- **Theoretical Computer Science:**
-    * **[Fall 2023]**: Algorithmic Coding Theory 2, Timed Automata, Advanced Algorithms
-    * **[Spring 2023]**: Algebra and Computation, Games on Graphs, Programming Language Concepts
-    * **[Fall 2022]**: Complexity Theory 2(Pseudorandomness), Theory of Computation, Design and Analysis of Algorithms
-    * **[Spring 2022]**: Complexity Theory 1, Advanced Programming in Python, Discrete Mathematics
-    * **[Fall 2021]**: Functional Programming in Haskell 
-
-- **Mathematics**
-    * **[Spring 2023]**: Topology, Differential Equations, Complex Analysis
-    * **[Fall 2022]**: Ring Theory, Calculus on Manifolds, Analysis 3(Fourier Analysis and Analysis on Metric Spaces)
-    * **[Spring 2022]**: Group Theory, Probability, Analysis 2
-    * **[Fall 2021]**: Linear Algebra, Analysis 1
-
-- **TAed**
-    * **[Fall 2023]**: Theory of Computation
-    * **[Spring 2022]**: Complexity Theory 1, Discrete Mathematics
-
-- **Other Courses**:
-    * German 1 (Fall 2023), English (Fall 2021), Classical Mechanics (Fall 2021)
+I love playing chess and badminton. I am also interested in watching all kinds of sports: archery, cricket, figure skating, football (for Americans: soccer) etc.
