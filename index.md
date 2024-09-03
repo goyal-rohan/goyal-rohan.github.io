@@ -6,7 +6,7 @@ layout: homepage
 
 I am a first-year PhD student in the Theory of Computation at MIT, where I am extremely fortunate to be advised by [Yael Tauman Kalai](https://www.microsoft.com/en-us/research/people/yael/) and [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/). My main interest is in error correcting codes, cryptography and more generally theoretical CS.
 
-Before this, I did my BSc.(Hons) from Chennai Mathematical Institute. During my undergrad, I was lucky enough to work with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/) and [Mrinal Kumar](https://mrinalkr.bitbucket.io/).
+Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/). During my undergrad, I was lucky enough to be advised by [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/) and [Mrinal Kumar](https://mrinalkr.bitbucket.io/).
 
 
 ## Research Interests
