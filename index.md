@@ -36,7 +36,7 @@ Most of my activities till now have only catered to students who have demonstrat
 - **[June 2024]** Interned at IRIF in Paris under [David Saulpic](https://www.normalesup.org/~saulpic/) and [Frédéric Magniez](https://irif.fr/~magniez/) 
 - **[May 2024]** Finished my undergrad program at CMI.
 - **[May 2023]** Started my summer internship at TIFR under Prof. Prahladh Harsha.
-- **[Apr. 2023]** Participated in EGMO 2023 as the Deputy Leader for the Indian team.
+- **[Apr. 2023]** Participated in EGMO 2023 as the Deputy Leader for the Indian team. [India at EGMO 2023](https://www.egmo.org/egmos/egmo12/countries/country35/)
 - **[Sept. 2021]** Started my undergraduate studies at CMI.
 - **[July 2021]** Represented India at IMO 2021.
 
