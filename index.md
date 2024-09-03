@@ -18,7 +18,7 @@ Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chenn
 - Anything with a mix of Combinatorics, Algebra and Randomization!
 
 ## Publications:
-- **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes** (FOCS 2024)\   [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[Simon's Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)] \
+- **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes** (FOCS 2024) \   [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[Simon's Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)] \
   with Prahladh Harsha, Mrinal Kumar and Ashutosh Shankar 
 
 ## Olympiad and Outreach
