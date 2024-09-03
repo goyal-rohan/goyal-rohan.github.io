@@ -4,20 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a final year undergraduate student at Chennai Mathematical Insititute pursuing a BSc. in Mathematics and Theoretical Computer Science. I am widely interested in Theoretical Computer Science and Combinatorics. I was lucky enough to spend my summer in 2023 at TIFR, Mumbai interning under Prahladh Harsha and got to interact with so many wonderful people like Mrinal Kumar, Ramprasad Saptarshi and Jaikumar Radhakrishnan! I also got to interact with the PhD. students at TIFR and am extremely grateful for the same. This opportunity also led to me working on my first ever paper! Currently, I am applying to PhD programs for research in Computer Science.
+I am a first year PhD student at MIT advised by [Yael Tauman Kalai](https://www.microsoft.com/en-us/research/people/yael/) and [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/). My main interest is in error correcting codes, cryptography and theoretical CS very broadly.
+
+Before this, I did my BSc.(Hons) from Chennai Mathematical Institute. During my undergrad, I was lucky enough to work with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/) and [Mrinal Kumar](https://mrinalkr.bitbucket.io/).
 
 
 ## Research Interests
 
-- **Coding Theory:** Error Correcting Codes, Fast Algorithms for decoding, encoding, testing etc. along with Cryptographic and other applications.
-- **Combinatorics:** Additive, algebraic and extremal; Sunflower Conjecture, Ramsey Theory etc.
-- **Expanders and Applications:** High Dimensional expanders; applications in sampling, random walks, counting, coding etc.
-- **Algebra and Computation:** Computational Ring and Number Theory; Graph Isomorphism and Computational Group Theory
-- **Approximaton Algorithms (and hardness):** Mix of randomness and approximation both in online and offline settings; hardness of approximation.
+- **Coding Theory and Cryptography**
+- **High Dimensional Expanders and Sampling**
+- **Algebra and Computation**
+- **Approximaton and randomize algorithms (and hardness)**
 - Anything with a mix of Combinatorics, Algebra and Randomization!
 
 ## Publications:
-- **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes**   [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] \
+- **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes** (FOCS 2024)   [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] \
   with Prahladh Harsha, Mrinal Kumar and Ashutosh Shankar 
 
 ## Olympiad and Outreach
