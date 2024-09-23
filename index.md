@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student in the Theory of Computation at MIT, where I am extremely fortunate to be advised by [Yael Tauman Kalai](https://www.microsoft.com/en-us/research/people/yael/) and [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/). My main interest is in error correcting codes, cryptography and more generally theoretical CS.
+I am a first-year PhD student in the Theory of Computation Group at MIT, where I am extremely fortunate to be advised by [Yael Tauman Kalai](https://www.microsoft.com/en-us/research/people/yael/) and [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/). My main interest is in error correcting codes, cryptography and more generally theoretical CS.
 
 Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/). During my undergrad, I was lucky enough to be advised by [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/) and [Mrinal Kumar](https://mrinalkr.bitbucket.io/).
 
@@ -27,7 +27,7 @@ Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chenn
   
 - **Outreach:**  I am also interested in understanding and improving school education in India especially in Mathematics and Computer Science. I want to understand how logical reasoning, puzzle solving and other aspects of problem solving can be inculcated into students at the grassroots level. I am also interested in increasing opportunities, awareness and recogonition for students who demonstrate extraordinary interest or capability in STEM fields.
   
-Most of my activities till now have only catered to students who have demonstrated extra-ordinary talent in Mathematics mostly through Olympiads and other competitive exams. I would be extremely interested in any opportunities to work on more grassroots' level for Mathematics education, Computational and Logical Thinking, Problem Solving etc. **If you have any such opportunities where my experience would be useful, please feel free to reach out**. For a list of activities I have been involved in, please check my [cv](assets/files/rohan-cv.pdf).
+I would be extremely interested in any opportunities to work on more grassroots' level for Mathematics education, Computational and Logical Thinking, Problem Solving etc. **If you have any such opportunities where my experience would be useful, please feel free to reach out**. For a list of activities I have been involved in, please check my [cv](assets/files/rohan-cv.pdf).
 
 ## News
  
@@ -47,3 +47,6 @@ Please visit [my old blog](https://rgtdfg.blogspot.com/p/handouts.html) for a li
 
 ## Talks and Achievements:
 Please check my [cv](assets/files/rohan-cv.pdf).
+
+-- 
+Website updated September 2024
