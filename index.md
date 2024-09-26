@@ -4,18 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student in the Theory of Computation Group at MIT, where I am extremely fortunate to be advised by [Yael Tauman Kalai](https://www.microsoft.com/en-us/research/people/yael/) and [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/). My main interest is in error correcting codes, cryptography and more generally theoretical CS.
+I am a first-year PhD student in the Theory of Computation Group at MIT, where I am extremely fortunate to be advised by [Yael Tauman Kalai](https://www.microsoft.com/en-us/research/people/yael/) and [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/).
 
-Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/). During my undergrad, I was lucky enough to be advised by [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/) and [Mrinal Kumar](https://mrinalkr.bitbucket.io/).
+Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/). During my undergrad, I was lucky enough to be advised by [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/) and [Mrinal Kumar](https://mrinalkr.bitbucket.io/). I also spent a wonderful summer in at [IRIF Paris](https://www.irif.fr/) working under [David Saulpic](https://www.normalesup.org/~saulpic/) between my undergrad and PhD program working on clustering algorithms.
 
 
 ## Research Interests
 
-- **Coding Theory and Cryptography**
-- **High Dimensional Expanders and Sampling**
-- **Algebra and Computation**
-- **Approximaton and randomized algorithms (and hardness)**
-- Anything with a mix of Combinatorics, Algebra and Randomization!
+My main interest is in (quantum and classical) error correcting codes, cryptography and more generally theoretical CS. I tend to enjoy most problems with flavours of combinatorics, algebra and randomization.
 
 ## Publications:
 - **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes** (FOCS 2024) \   [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[Simon's Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)] \
