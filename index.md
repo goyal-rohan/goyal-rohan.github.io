@@ -42,7 +42,7 @@ I would be extremely interested in any opportunities to work on more grassroots'
 Please visit [my old blog](https://rgtdfg.blogspot.com/p/handouts.html) for a list of Olympiad writings. (mostly outdated right now but I hope to update it soon. I don't like most of them anymore either as they are quite terse and hard to read.)
 
 ## Talks and Achievements:
-Please check my [cv](assets/files/rohan-cv.pdf).
+Please check my [cv](assets/files/rohan-cv-short.pdf).
 
 -- 
 Website updated September 2024
