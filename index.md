@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student in the Theory of Computation Group at MIT, where I am extremely fortunate to be advised by [Yael Tauman Kalai](https://www.microsoft.com/en-us/research/people/yael/) and [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/).
+I am a first-year PhD student in the Theory of Computation Group at MIT, where I am extremely fortunate to be advised by [Yael Tauman Kalai](https://www.microsoft.com/en-us/research/people/yael/).
 
 Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/). During my undergrad, I was lucky enough to be advised by [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/) and [Mrinal Kumar](https://mrinalkr.bitbucket.io/). I also spent summmer 2024 in at [IRIF Paris](https://www.irif.fr/) working under [David Saulpic](https://www.normalesup.org/~saulpic/) on clustering algorithms.
 
