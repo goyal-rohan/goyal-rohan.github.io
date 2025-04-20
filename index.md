@@ -11,7 +11,7 @@ Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chenn
 
 ## Research Interests
 
-My main interest is in error correction, cryptography and more generally theoretical CS. I tend to enjoy most problems with flavours of combinatorics, algebra and randomization.
+My main interest is in error correction, proof systems, and more generally theoretical CS. I tend to enjoy most problems with flavours of combinatorics, algebra and randomization.
 
 ## Publications:
 - **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes** (FOCS 2024)    [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[Simon's Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)] \
