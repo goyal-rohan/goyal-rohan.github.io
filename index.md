@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student in the Theory of Computation Group at MIT, where I am extremely fortunate to be advised by [Yael Tauman Kalai](https://www.microsoft.com/en-us/research/people/yael/).
+I am a second-year PhD student in the Theory of Computation Group at MIT, where I am extremely fortunate to be advised by Yael Tauman Kalai.
 
-Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/). During my undergrad, I was lucky enough to be advised by [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/) and [Mrinal Kumar](https://mrinalkr.bitbucket.io/). I also spent summmer 2024 in at [IRIF Paris](https://www.irif.fr/) working under [David Saulpic](https://www.normalesup.org/~saulpic/) on clustering algorithms.
+Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/). During my undergrad, I was lucky enough to be advised by [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/) and [Mrinal Kumar](https://mrinalkr.bitbucket.io/). I also spent summer 2024 in at [IRIF Paris](https://www.irif.fr/) working under [David Saulpic](https://www.normalesup.org/~saulpic/) on clustering algorithms.
 
 
 ## Research Interests
@@ -16,6 +16,10 @@ My main interest is in error correction, proof systems, and more generally theor
 ## Publications:
 - **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes** (FOCS 2024)    [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[Simon's Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)] \
   with Prahladh Harsha, Mrinal Kumar and Ashutosh Shankar 
+
+- **Efficiently Batching Unambiguous Interactive Proofs** (to appear in FOCS 2025)
+with Bonnie Berger, Matthew Hong, and Yael Kalai.  
+
 
 ## Olympiad and Outreach
 
