@@ -17,8 +17,8 @@ My main interest is in error correction, proof systems, and more generally theor
 - **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes** (FOCS 2024)    [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[Simon's Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)] \
   with Prahladh Harsha, Mrinal Kumar and Ashutosh Shankar 
 
-- **Efficiently Batching Unambiguous Interactive Proofs** (to appear in FOCS 2025)
-with Bonnie Berger, Matthew Hong, and Yael Kalai.  
+- **Efficiently Batching Unambiguous Interactive Proofs** (to appear in FOCS 2025) \
+  with Bonnie Berger, Matthew Hong, and Yael Kalai.  
 
 
 ## Olympiad and Outreach
