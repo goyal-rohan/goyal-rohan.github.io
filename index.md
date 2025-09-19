@@ -31,7 +31,8 @@ I would be extremely interested in any opportunities to work on more grassroots'
 
 ## News
  
-- **[Sept. 2024]** Started my PhD at MIT! 
+- **[Summer 2025]**: Visited the Simons Institute for the Cryptography program.
+- **[Sept. 2024]**: Started my PhD at MIT! 
 - **[July 2024]**: Participated in IMO 2024 as the Observer A for the Indian team. This was our best ever performance with country rank 4 and 4 gold medals. [India at IMO 2024](https://www.imo-official.org/team_r.aspx?code=IND&year=2024) 
 - **[June 2024]** Interned at IRIF in Paris under [David Saulpic](https://www.normalesup.org/~saulpic/) and [Frédéric Magniez](https://irif.fr/~magniez/) 
 - **[May 2024]** Finished my undergrad program at CMI.
