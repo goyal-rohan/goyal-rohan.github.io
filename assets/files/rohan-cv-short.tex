@@ -1,0 +1,185 @@
+\documentclass[margin,line, 10pt]{res}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{fontawesome}
+\usepackage[dvipsnames]{xcolor}
+\definecolor{hypercolor}{HTML}{800000}
+\definecolor{top}{HTML}{ff0000} 
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    urlcolor=hypercolor,
+}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancypagestyle{lastpage}
+{
+    \fancyfoot[L] {\sffamily \thepage}    
+    \fancyfoot[R] {\sffamily{Last update on \today}}
+}
+\fancyhead{}
+\fancyfoot{}
+\fancyfoot[L]{\sffamily \thepage}
+\usepackage{mathpazo} 
+\usepackage{eulervm}
+% \usepackage[default]{sourcesanspro}
+% \usepackage[T1]{fontenc}
+
+% \usepackage{fontspec}
+% \setmainfont[
+% BoldFont = Source Sans Pro-{Semi-bold}]{Source Sans Pro}
+% \setmainfont{Caladea}
+
+\oddsidemargin -.5in
+\evensidemargin -.5in
+\textwidth=6.0in
+\itemsep=0in
+\parsep=0in
+% if using pdflatex:
+%\setlength{\pdfpagewidth}{\paperwidFth}
+%\setlength{\pdfpageheight}{\paperheight} 
+
+\newenvironment{list1}{
+  \begin{list}{\ding{113}}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.17in}}}{\end{list}}
+\newenvironment{list2}{
+  \begin{list}{$\bullet$}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.2in}}}{\end{list}}
+
+\begin{document}
+
+\name{Rohan Goyal \vspace*{.1in}} 
+
+\begin{resume}
+\section{\sc Contact Information}
+Massachusetts Insitute of Technology \hfill {rohan\textunderscore g@mit.edu}\\
+32 Vassar St., Cambridge, MA \hfill \href{https://goyal-rohan.github.io/}{\texttt www.goyal-rohan.github.io}
+
+\section{\sc Research Interests}
+I am broadly interested in theoretical computer science. In particular, I focus on notions of robustness in computation: error-correcting codes, proof systems etc.
+%----------------------------------------------------------------------------------------
+%	EDUCATION 
+%----------------------------------------------------------------------------------------
+\section{\sc Education}
+
+
+{\bf Massachusetts Institute of Technology}, Cambridge, MA, USA \hfill September 2024-Present\\
+{\bf Advisor:} Yael Tauman Kalai
+
+\vspace{-0.4cm}
+PhD. in Computer Science\hfill {\bf CGPA}: 5.0/5.0
+
+
+
+{\bf Chennai Mathematical Institute}, Chennai, India \hfill September 2021-April 2024
+
+\vspace{-0.4cm}
+B.Sc.(Honours) in Mathematics and Computer Science{\hfill{\bf CGPA:} 9.62/10.0}
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH    
+%----------------------------------------------------------------------------------------
+\section{\sc Internships, Research Projects}
+{\bf Tata Institute of Fundamental Research}, Navy Nagar, Mumbai, India
+
+\vspace{-.3cm}
+{\em Intern} \hfill {May 2023 - August 2023}\\
+Worked under \href{https://www.tifr.res.in/~prahladh/}{Prahladh Harsha} and \href{https://mrinalkr.bitbucket.io/}{Mrinal Kumar} on problems related to Error-correcting codes.
+
+{\bf ENS Paris}, 45 Rue d'Ulm, 75005 Paris, France
+
+\vspace{-.3cm}
+{\em Intern} \hfill {May 2024-June 2024}\\
+Worked under \href{https://www.normalesup.org/~saulpic/}{David Saulpic} and \href{https://www.irif.fr/~magniez/}{Frédéric Magniez} on problems related to clustering algorithms. This internship was a part of the CMI-ENS exchange program.
+
+
+
+\section{\sc Writing and Publications}
+
+%G., Prahladh Harsha, Mrinal Kumar, Ashutosh Shankar, 2023. Near Linear Time for List Decoding Multiplicity Codes. \hfill \href{}{arxiv} \href{}{eccc} 
+
+\vspace{-.1cm}
+
+{\bf Publications}
+\begin{list2}
+    \item \textit{Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes} [FOCS 2024, Chicago] [\href{https://arxiv.org/abs/2311.17841}{ArXiV}] [\href{https://eccc.weizmann.ac.il/report/2023/185/}{ECCC}]\\
+     with Prahladh Harsha, Mrinal Kumar, and Ashutosh Shankar.
+\end{list2}
+
+{\bf Manuscripts}
+\begin{list2}
+    \item \textit{Efficiently Batching Unambiguous Interactive Proofs} \hfill [to appear at FOCS 2025, Sydney]\\
+    with Bonnie Berger, Matthew Hong, and Yael Tauman Kalai. 
+    \item \textit{Fast list-recovery of univariate multiplicity and folded Reed-Solomon codes}\\
+    with Prahladh Harsha, Mrinal Kumar, and Ashutosh Shankar.
+\end{list2}
+
+\section{Talks}
+{\bf Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes:}
+\begin{list2}
+    \item University of Copenhagen; BARC Research Center \hfill [\href{https://barc.ku.dk/events/barc-talk-by-rohan-goyal/}{Announcement}]
+    \item Chennai Mathematical Institute, Computer Science Seminar \hfill [\href{https://www.cmi.ac.in/activities/show-abstract.php?absyear=2025&absref=3&abstype=sem}{Announcement}]
+\end{list2}
+
+{\bf Efficiently Batching Unambiguous Interactive Proofs:}
+\begin{list2}
+    \item \textit{MIT CIS Seminar} [\href{https://cis.csail.mit.edu/}{Announcement}]{\hfill [October 2025]}
+\end{list2}
+
+\section{Service}
+Subreviewed for FOCS and ACM Transactions on Algorithms.
+
+
+%----------------------------------------------------------------------------------------
+%	HONORS
+%----------------------------------------------------------------------------------------
+
+\section{TAing Experience}
+I have served as a TA at CMI for:
+\begin{list2}
+    \item Discrete Mathematics \hfill Spring 2023, 2024
+    \item Complexity Theory \hfill Spring 2023
+    \item Theory of Computation \hfill Fall 2022
+\end{list2}
+
+\section{\sc Honors and Awards} 
+
+Deputy Leader India, {\bf European Girls Mathematics Olympiad 2023} \href{https://www.egmo.org/egmos/egmo12/countries/country35/}{Indian team} \hfill 2023
+
+\vspace*{-2.5mm}
+
+Observer A India, {\bf International Mathematical Olympiad} \hfill 2024
+
+\vspace*{-2.5mm}
+Bronze Medal at {\bf International Mathematical Olympiad (IND1)} \hfill 2021
+
+\vspace*{-2.5mm}
+Sriram Scholarship: Complete tuition fee waiver for attending CMI\hfill 2021-2024
+
+\vspace*{-2.5mm}
+Kishore Vigyanik Pratyogita Yojana (KVPY) Scholarship \hfill 2021-2024
+
+\section{\sc Math teaching experience and outreach}
+%--Matholy-- 
+I have been heavily involved with various mathematics competitions, training programs, and Olympiads. I have taught, helped set exams, proposed problems, and been a leader for various Indian Mathematical Olympiad teams as well including the EGMO team in 2023 and the IMO team in 2024. For more information or to discuss opportunities, please write to me.
+
+%--------------------------------------------------------------------------------
+%    CMI EXPERIENCE
+%-----------------------------------------------------------------------------------------------
+
+
+\end{resume}
+\thispagestyle{lastpage}
+\end{document}
