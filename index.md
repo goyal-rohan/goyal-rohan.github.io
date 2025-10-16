@@ -14,11 +14,16 @@ Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chenn
 My main interest is in error correction, proof systems, and more generally theoretical CS. I tend to enjoy most problems with flavours of combinatorics, algebra and randomization.
 
 ## Publications:
-- **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes** (FOCS 2024)    [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[Simon's Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)] \
-  with Prahladh Harsha, Mrinal Kumar and Ashutosh Shankar 
+
+- **Fast list-recovery of univariate multiplicity and folded Reed-Solomon codes** \
+with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home) 
+
 
 - **Efficiently Batching Unambiguous Interactive Proofs** (to appear in FOCS 2025) \
-  with Bonnie Berger, Matthew Hong, and Yael Kalai.  
+  with Bonnie Berger, [Matthew Hong](https://people.csail.mit.edu/matth/), and [Yael Kalai](https://www.eecs.mit.edu/people/yael-kalai/).  
+  
+- **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes** (FOCS 2024)    [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[Simon's Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)] \
+  with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home) 
 
 
 ## Olympiad and Outreach
