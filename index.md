@@ -14,6 +14,7 @@ Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chenn
 My main interest is in error correction, proof systems, and more generally theoretical CS. I tend to enjoy most problems with flavours of combinatorics, algebra and randomization.
 
 ## Publications:
+All authors are in alphabetical order of last name.
 
 - **Fast list-recovery of univariate multiplicity and folded Reed-Solomon codes** \
 with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home) 
