@@ -49,11 +49,13 @@ Subreviewed for FOCS and ACM Transcations on Algorithms.
   
 I would be extremely interested in any opportunities to work on more grassroots' level for Mathematics education, Computational and Logical Thinking, Problem Solving etc. **If you have any such opportunities where my experience would be useful, please feel free to reach out**. For a list of activities I have been involved in, please reach out to me via email.
 
-
+<!-- 
 
 ## Some Olympiad Writings:
 
 Please visit [my old blog](https://rgtdfg.blogspot.com/p/handouts.html) for a list of Olympiad writings. (mostly outdated right now but I hope to update it soon. I don't like most of them anymore either as they are quite terse and hard to read.)
+
+-->
 
 ## Talks and Honors:
 Please check my [cv](assets/files/rohan-cv-short.pdf).
