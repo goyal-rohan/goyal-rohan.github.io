@@ -16,10 +16,10 @@ My main interest is in error correction, proof systems, and more generally theor
 ## Publications:
 All authors are in alphabetical order of last name.
 
-- **Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes** [[ECCC](https://eccc.weizmann.ac.il/report/2025/166/)] \ 
+- **Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes** [[ECCC](https://eccc.weizmann.ac.il/report/2025/166/)]  
 with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)
 
-- **Fast list-recovery of univariate multiplicity and folded Reed-Solomon codes** \
+- **Fast list-recovery of univariate multiplicity and folded Reed-Solomon codes** [[ECCC](https://eccc.weizmann.ac.il/report/2025/194/)]\
 with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home) 
 
 - **Efficiently Batching Unambiguous Interactive Proofs** (to appear in FOCS 2025) [[ECCC](https://eccc.weizmann.ac.il/report/2025/159/)] \
