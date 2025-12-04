@@ -33,6 +33,9 @@ Subreviewed for FOCS and ACM Transcations on Algorithms.
 
 ## News
  
+- **[January 2026]**: Visiting Chennai Mathematical Institute, Tata Institute of Fundamental Research, Mumbai.
+- **[December 2025]**: I will be at FOCS 2025 in Sydney!
+- **[December 2025]**: Speaking at the Proofs and Codes Workshop at Cornell Tech. 
 - **[Summer 2025]**: Visited the Simons Institute for the Cryptography program.
 - **[January 2025]**: Attended the Oberwolfach workshop on Cryptography.
 - **[Sept. 2024]**: Started my PhD at MIT! 
