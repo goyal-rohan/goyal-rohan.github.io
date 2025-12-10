@@ -31,7 +31,7 @@ All authors are in alphabetical order of last name.
 - **Efficiently Batching Unambiguous Interactive Proofs** (to appear in FOCS 2025) \ [[ECCC](https://eccc.weizmann.ac.il/report/2025/159/)] [[ArXiV](https://arxiv.org/abs/2510.19075)] \
   with [Bonnie Berger](https://people.csail.mit.edu/bab/), [Matthew Hong](https://people.csail.mit.edu/matth/), and [Yael Kalai](https://www.eecs.mit.edu/people/yael-kalai/).  
   
-- **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes** (FOCS 2024)    [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[ArXiV](https://arxiv.org/abs/2311.17841)] [[Simon's Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)] \
+- **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes** (FOCS 2024)    [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[ArXiV](https://arxiv.org/abs/2311.17841)] [[Simons Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)] \
   with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home) 
 
 ## Service:
