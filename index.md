@@ -16,11 +16,20 @@ My main interest is in error correction, proof systems, and more generally theor
 ## Publications:
 All authors are in alphabetical order of last name.
 
+
+- **Improved analysis of list-decodability of random linear codes: It’s all about counting constraints**
+[[ECCC](https://eccc.weizmann.ac.il/report/2026/074/)]
+with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)
+
+- **Explicit Constant-Alphabet Subspace Design Codes**
+[[ECCC](https://eccc.weizmann.ac.il/report/2026/057/)] [[ArXiV](https://arxiv.org/abs/2604.15218v1)]
+with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and [Jun-Ting (Tim) Hsieh](https://jthsieh.github.io/)
+
 - **Structure Theorems (and Fast Algorithms) for List Recovery of Subspace-Design Codes**         
 [[ECCC](https://eccc.weizmann.ac.il/report/2025/212/)] [[ArXiV](https://arxiv.org/abs/2512.08017)]      
   with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)
 
-- **Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes**     
+- **Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes** (STOC 2026)  
 [[ECCC](https://eccc.weizmann.ac.il/report/2025/166/)]  [[ePrint](https://eprint.iacr.org/2025/2054)]    
   with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)
 
@@ -28,7 +37,7 @@ All authors are in alphabetical order of last name.
 [[ECCC](https://eccc.weizmann.ac.il/report/2025/194/)] [[ArXiV](https://arxiv.org/abs/2512.00248)]      
   with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home) 
 
-- **Efficiently Batching Unambiguous Interactive Proofs** (to appear in FOCS 2025)   
+- **Efficiently Batching Unambiguous Interactive Proofs** (FOCS 2025)   
   [[ECCC](https://eccc.weizmann.ac.il/report/2025/159/)] [[ArXiV](https://arxiv.org/abs/2510.19075)]          
   with [Bonnie Berger](https://people.csail.mit.edu/bab/), [Matthew Hong](https://people.csail.mit.edu/matth/), and [Yael Kalai](https://www.eecs.mit.edu/people/yael-kalai/).  
   
@@ -37,7 +46,7 @@ All authors are in alphabetical order of last name.
   with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home) 
 
 ## Service:
-Subreviewed for FOCS and ACM Transcations on Algorithms.
+Subreviewed for STOC, FOCS, CCC, RANDOM and ACM Transcations on Algorithms.
 
 ## News
  
