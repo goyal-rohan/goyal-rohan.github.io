@@ -31,7 +31,7 @@ with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)
 [[ECCC](https://eccc.weizmann.ac.il/report/2025/212/)] [[ArXiV](https://arxiv.org/abs/2512.08017)]  
 
 - **Fast list-recovery of univariate multiplicity and folded Reed-Solomon codes**    
-with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home)   
+with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/), and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home)   
 [[ECCC](https://eccc.weizmann.ac.il/report/2025/194/)] [[ArXiV](https://arxiv.org/abs/2512.00248)]      
   
 
@@ -50,7 +50,7 @@ with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)
 # 2024
   
 - **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes**    
-with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home)    
+with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/), and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home)    
 <span style="color:#F1F5B3">FOCS 2024, Chicago</span> [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[ArXiV](https://arxiv.org/abs/2311.17841)] [[Simons Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)]        
   
 
