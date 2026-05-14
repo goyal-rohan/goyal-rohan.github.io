@@ -27,7 +27,7 @@ with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and [Jun
 [[ECCC](https://eccc.weizmann.ac.il/report/2026/057/)] [[ArXiV](https://arxiv.org/abs/2604.15218v1)]
 
 - **Structure Theorems (and Fast Algorithms) for List Recovery of Subspace-Design Codes**  \\
-  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)\\       
+  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)   \\       
 [[ECCC](https://eccc.weizmann.ac.il/report/2025/212/)] [[ArXiV](https://arxiv.org/abs/2512.08017)]  
 
 - **Fast list-recovery of univariate multiplicity and folded Reed-Solomon codes**     \\
@@ -39,19 +39,19 @@ with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](h
 
 - **Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes** 
   with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)\\
-  <span style="color:red">STOC 2026, Salt Lake City</span> [[ECCC](https://eccc.weizmann.ac.il/report/2025/166/)]  [[ePrint](https://eprint.iacr.org/2025/2054)]    
+  <span style="color:yellow">STOC 2026, Salt Lake City</span> [[ECCC](https://eccc.weizmann.ac.il/report/2025/166/)]  [[ePrint](https://eprint.iacr.org/2025/2054)]    
 
 # 2025
 
 - **Efficiently Batching Unambiguous Interactive Proofs**            \\
   with [Bonnie Berger](https://people.csail.mit.edu/bab/), [Matthew Hong](https://people.csail.mit.edu/matth/), and [Yael Kalai](https://www.eecs.mit.edu/people/yael-kalai/).  \\
-  <span style="color:red">FOCS 2025, Sydney</span>[[ECCC](https://eccc.weizmann.ac.il/report/2025/159/)] [[ArXiV](https://arxiv.org/abs/2510.19075)]  
+  <span style="color:yellow">FOCS 2025, Sydney</span>[[ECCC](https://eccc.weizmann.ac.il/report/2025/159/)] [[ArXiV](https://arxiv.org/abs/2510.19075)]  
 
 # 2024
   
 - **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes** \\
 with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home) \\   
-<span style="color:red">FOCS 2024, Chicago</span> [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[ArXiV](https://arxiv.org/abs/2311.17841)] [[Simons Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)]        
+<span style="color:yellow">FOCS 2024, Chicago</span> [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[ArXiV](https://arxiv.org/abs/2311.17841)] [[Simons Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)]        
   
 
 ## Service:
