@@ -16,34 +16,43 @@ My main interest is in error correction, proof systems, and more generally theor
 ## Publications:
 All authors are in alphabetical order of last name.
 
+# Preprints
 
-- **Improved analysis of list-decodability of random linear codes: It’s all about counting constraints**
+- **Improved analysis of list-decodability of random linear codes: It’s all about counting constraints**\\
+with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)\\
 [[ECCC](https://eccc.weizmann.ac.il/report/2026/074/)]
-with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)
 
-- **Explicit Constant-Alphabet Subspace Design Codes**
+- **Explicit Constant-Alphabet Subspace Design Codes**\\
+with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and [Jun-Ting (Tim) Hsieh](https://jthsieh.github.io/)\\
 [[ECCC](https://eccc.weizmann.ac.il/report/2026/057/)] [[ArXiV](https://arxiv.org/abs/2604.15218v1)]
-with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and [Jun-Ting (Tim) Hsieh](https://jthsieh.github.io/)
 
-- **Structure Theorems (and Fast Algorithms) for List Recovery of Subspace-Design Codes**         
-[[ECCC](https://eccc.weizmann.ac.il/report/2025/212/)] [[ArXiV](https://arxiv.org/abs/2512.08017)]      
-  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)
+- **Structure Theorems (and Fast Algorithms) for List Recovery of Subspace-Design Codes**  \\
+  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)\\       
+[[ECCC](https://eccc.weizmann.ac.il/report/2025/212/)] [[ArXiV](https://arxiv.org/abs/2512.08017)]  
 
-- **Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes** (STOC 2026)  
-[[ECCC](https://eccc.weizmann.ac.il/report/2025/166/)]  [[ePrint](https://eprint.iacr.org/2025/2054)]    
-  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)
-
-- **Fast list-recovery of univariate multiplicity and folded Reed-Solomon codes**     
+- **Fast list-recovery of univariate multiplicity and folded Reed-Solomon codes**     \\
+with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home)     \\
 [[ECCC](https://eccc.weizmann.ac.il/report/2025/194/)] [[ArXiV](https://arxiv.org/abs/2512.00248)]      
-  with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home) 
-
-- **Efficiently Batching Unambiguous Interactive Proofs** (FOCS 2025)   
-  [[ECCC](https://eccc.weizmann.ac.il/report/2025/159/)] [[ArXiV](https://arxiv.org/abs/2510.19075)]          
-  with [Bonnie Berger](https://people.csail.mit.edu/bab/), [Matthew Hong](https://people.csail.mit.edu/matth/), and [Yael Kalai](https://www.eecs.mit.edu/people/yael-kalai/).  
   
-- **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes** (FOCS 2024)    
-[[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[ArXiV](https://arxiv.org/abs/2311.17841)] [[Simons Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)]        
-  with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home) 
+
+# 2026
+
+- **Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes** 
+  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)\\
+  <span style="color:red">STOC 2026, Salt Lake City</span> [[ECCC](https://eccc.weizmann.ac.il/report/2025/166/)]  [[ePrint](https://eprint.iacr.org/2025/2054)]    
+
+# 2025
+
+- **Efficiently Batching Unambiguous Interactive Proofs**            \\
+  with [Bonnie Berger](https://people.csail.mit.edu/bab/), [Matthew Hong](https://people.csail.mit.edu/matth/), and [Yael Kalai](https://www.eecs.mit.edu/people/yael-kalai/).  \\
+  <span style="color:red">FOCS 2025, Sydney</span>[[ECCC](https://eccc.weizmann.ac.il/report/2025/159/)] [[ArXiV](https://arxiv.org/abs/2510.19075)]  
+
+# 2024
+  
+- **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes** \\
+with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home) \\   
+<span style="color:red">FOCS 2024, Chicago</span> [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[ArXiV](https://arxiv.org/abs/2311.17841)] [[Simons Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)]        
+  
 
 ## Service:
 Subreviewed for STOC, FOCS, CCC, RANDOM and ACM Transcations on Algorithms.
