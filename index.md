@@ -18,39 +18,39 @@ All authors are in alphabetical order of last name.
 
 # Preprints
 
-- **Improved analysis of list-decodability of random linear codes: It’s all about counting constraints**\\
-with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)\\
+- **Improved analysis of list-decodability of random linear codes: It’s all about counting constraints**   
+with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)    
 [[ECCC](https://eccc.weizmann.ac.il/report/2026/074/)]
 
-- **Explicit Constant-Alphabet Subspace Design Codes**\\
+- **Explicit Constant-Alphabet Subspace Design Codes**        
 with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and [Jun-Ting (Tim) Hsieh](https://jthsieh.github.io/)\\
 [[ECCC](https://eccc.weizmann.ac.il/report/2026/057/)] [[ArXiV](https://arxiv.org/abs/2604.15218v1)]
 
-- **Structure Theorems (and Fast Algorithms) for List Recovery of Subspace-Design Codes**  \\
-  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)   \\       
+- **Structure Theorems (and Fast Algorithms) for List Recovery of Subspace-Design Codes**   
+  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)            
 [[ECCC](https://eccc.weizmann.ac.il/report/2025/212/)] [[ArXiV](https://arxiv.org/abs/2512.08017)]  
 
-- **Fast list-recovery of univariate multiplicity and folded Reed-Solomon codes**\\
-with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home)     \\
+- **Fast list-recovery of univariate multiplicity and folded Reed-Solomon codes**    
+with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home)   
 [[ECCC](https://eccc.weizmann.ac.il/report/2025/194/)] [[ArXiV](https://arxiv.org/abs/2512.00248)]      
   
 
 # 2026
 
-- **Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes**\\ 
-  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/) \\
+- **Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes**   
+  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)    
   <span style="color:#F1F5B3">STOC 2026, Salt Lake City</span> [[ECCC](https://eccc.weizmann.ac.il/report/2025/166/)]  [[ePrint](https://eprint.iacr.org/2025/2054)]  [[Ethproofs call talk by Venkat](https://youtu.be/Dm-SaFFZS48?si=audrU4EMkOR9nrOE&t=6975)] [[Talk at TIFR](https://www.youtube.com/live/17KJo9eIsDc?si=rM_iyOcVxeGwDF9f)]
 
 # 2025
 
-- **Efficiently Batching Unambiguous Interactive Proofs**            \\
-  with [Bonnie Berger](https://people.csail.mit.edu/bab/), [Matthew Hong](https://people.csail.mit.edu/matth/), and [Yael Kalai](https://www.eecs.mit.edu/people/yael-kalai/).  \\
+- **Efficiently Batching Unambiguous Interactive Proofs**     
+  with [Bonnie Berger](https://people.csail.mit.edu/bab/), [Matthew Hong](https://people.csail.mit.edu/matth/), and [Yael Kalai](https://www.eecs.mit.edu/people/yael-kalai/).     
   <span style="color:#F1F5B3">FOCS 2025, Sydney</span> [[ECCC](https://eccc.weizmann.ac.il/report/2025/159/)] [[ArXiV](https://arxiv.org/abs/2510.19075)]  [[FOCS Video by Matt](https://youtu.be/cN4whoNd-kM?si=uYMrfqrPOXgGycln)]
 
 # 2024
   
-- **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes** \\
-with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home)       \\   
+- **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes**    
+with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/) and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home)        
 <span style="color:#F1F5B3">FOCS 2024, Chicago</span> [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[ArXiV](https://arxiv.org/abs/2311.17841)] [[Simons Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)]        
   
 
