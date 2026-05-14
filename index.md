@@ -37,7 +37,7 @@ with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](h
 
 # 2026
 
-- **Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes**
+- **Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes**    
 with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)    
 <span style="color:#F1F5B3">STOC 2026, Salt Lake City</span> [[ECCC](https://eccc.weizmann.ac.il/report/2025/166/)]  [[ePrint](https://eprint.iacr.org/2025/2054)]  [[Ethproofs call talk by Venkat](https://youtu.be/Dm-SaFFZS48?si=audrU4EMkOR9nrOE&t=6975)] [[Talk at TIFR](https://www.youtube.com/live/17KJo9eIsDc?si=rM_iyOcVxeGwDF9f)]
 
