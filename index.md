@@ -23,7 +23,7 @@ with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)
 [[ECCC](https://eccc.weizmann.ac.il/report/2026/074/)]
 
 - **Explicit Constant-Alphabet Subspace Design Codes**        
-with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and [Jun-Ting (Tim) Hsieh](https://jthsieh.github.io/)\\
+with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and [Jun-Ting (Tim) Hsieh](https://jthsieh.github.io/)  
 [[ECCC](https://eccc.weizmann.ac.il/report/2026/057/)] [[ArXiV](https://arxiv.org/abs/2604.15218v1)]
 
 - **Structure Theorems (and Fast Algorithms) for List Recovery of Subspace-Design Codes**   
