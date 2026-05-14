@@ -49,7 +49,8 @@ with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and [Jun
 Subreviewed for STOC, FOCS, CCC, RANDOM and ACM Transcations on Algorithms.
 
 ## News
- 
+
+- **[May 2026 - August 2026]**: Interning at Apple New York with [Guy Rothblum](https://guyrothblum.wordpress.com/). 
 - **[January 2026]**: Visiting Chennai Mathematical Institute, Tata Institute of Fundamental Research, Mumbai.
 - **[December 2025]**: I will be at FOCS 2025 in Sydney!
 - **[December 2025]**: Speaking at the Proofs and Codes Workshop at Cornell Tech. 
