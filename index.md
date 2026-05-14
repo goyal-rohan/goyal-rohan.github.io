@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a second-year PhD student in the Theory of Computation Group at MIT, where I am extremely fortunate to be advised by Yael Tauman Kalai.
+I am a second-year PhD student in the [Theory of Computation Group](https://toc.csail.mit.edu/) at MIT, where I am extremely fortunate to be advised by Yael Tauman Kalai.
 
-Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/). During my undergrad, I was lucky enough to be advised by [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/) and [Mrinal Kumar](https://mrinalkr.bitbucket.io/). I also spent summer 2024 in at [IRIF Paris](https://www.irif.fr/) working under [David Saulpic](https://www.normalesup.org/~saulpic/) on clustering algorithms.
+Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/). During my undergrad, I was lucky enough to be advised by [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/) and [Mrinal Kumar](https://mrinalkr.bitbucket.io/). I also spent summer 2024 in at [IRIF Paris](https://www.irif.fr/) working under [David Saulpic](https://www.normalesup.org/~saulpic/) on clustering algorithms. I will be spending summer 2026 interning with [Guy Rothblum](https://guyrothblum.wordpress.com/) at Apple's New York offices.
 
 
 ## Research Interests
