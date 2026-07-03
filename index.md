@@ -22,20 +22,24 @@ All authors are in alphabetical order of last name.
 with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)    
 [[ECCC](https://eccc.weizmann.ac.il/report/2026/074/)]
 
-- **Explicit Constant-Alphabet Subspace Design Codes**        
-with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and [Jun-Ting (Tim) Hsieh](https://jthsieh.github.io/)  
-[[ECCC](https://eccc.weizmann.ac.il/report/2026/057/)] [[ArXiV](https://arxiv.org/abs/2604.15218v1)]
-
 - **Structure Theorems (and Fast Algorithms) for List Recovery of Subspace-Design Codes**   
 with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)             
 [[ECCC](https://eccc.weizmann.ac.il/report/2025/212/)] [[ArXiV](https://arxiv.org/abs/2512.08017)]  
 
-- **Fast list-recovery of univariate multiplicity and folded Reed-Solomon codes**    
-with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/), and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home)   
-[[ECCC](https://eccc.weizmann.ac.il/report/2025/194/)] [[ArXiV](https://arxiv.org/abs/2512.00248)]      
-  
 
 # 2026
+
+- **Explicit Constant-Alphabet Subspace Design Codes**        
+with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and [Jun-Ting (Tim) Hsieh](https://jthsieh.github.io/)  <span style="color:#F1F5B3">FOCS 2026, New York</span>
+[[ECCC](https://eccc.weizmann.ac.il/report/2026/057/)] [[ArXiV](https://arxiv.org/abs/2604.15218v1)]
+
+- **Locality of Curve Decoding and Improved Proximity Gaps**
+with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/), [Yihang (Kimi) Sun](https://scholar.google.com/citations?user=ZMNZ7x8AAAAJ&hl=en) and [Mary Wootters](https://sites.google.com/site/marywootters/) <span style="color:#F1F5B3">RANDOM 2026, Boston</span>
+
+
+- **Fast list-recovery of univariate multiplicity and folded Reed-Solomon codes**    
+with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/), and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home)   <span style="color:#F1F5B3">RANDOM 2026, Boston</span>
+[[ECCC](https://eccc.weizmann.ac.il/report/2025/194/)] [[ArXiV](https://arxiv.org/abs/2512.00248)]   
 
 - **Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes**    
 with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)    
