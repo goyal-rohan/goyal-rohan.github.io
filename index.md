@@ -26,7 +26,6 @@ with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)
 with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)             
 [[ECCC](https://eccc.weizmann.ac.il/report/2025/212/)] [[ArXiV](https://arxiv.org/abs/2512.08017)]  
 
-
 # 2026
 
 - **Explicit Constant-Alphabet Subspace Design Codes**        
