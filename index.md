@@ -34,7 +34,7 @@ with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and [Jun
 <span style="color:#F1F5B3">FOCS 2026, New York</span>
 [[ECCC](https://eccc.weizmann.ac.il/report/2026/057/)] [[ArXiV](https://arxiv.org/abs/2604.15218v1)]
 
-- **Locality of Curve Decoding and Improved Proximity Gaps**
+- **Locality of Curve Decoding and Improved Proximity Gaps**        
 with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/), [Yihang (Kimi) Sun](https://scholar.google.com/citations?user=ZMNZ7x8AAAAJ&hl=en) and [Mary Wootters](https://sites.google.com/site/marywootters/).      
 <span style="color:#F1F5B3">RANDOM 2026, Boston</span>
 
