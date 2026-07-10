@@ -36,6 +36,7 @@ with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and [Jun
 - **Locality of Curve Decoding and Improved Proximity Gaps**        
 with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/), [Yihang (Kimi) Sun](https://scholar.google.com/citations?user=ZMNZ7x8AAAAJ&hl=en) and [Mary Wootters](https://sites.google.com/site/marywootters/).      
 <span style="color:#16a085">RANDOM 2026, Boston</span>
+[[ArXiV](https://arxiv.org/abs/2607.08516)]
 
 - **Fast list-recovery of univariate multiplicity and folded Reed-Solomon codes**    
 with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/), and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home).     
