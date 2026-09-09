@@ -20,9 +20,9 @@ My main interest is in error correction, proof systems, and more generally theor
 with [Yael Tauman Kalai](https://www.csail.mit.edu/person/yael-kalai)
 
 # TAing at CMI:
-Discrete Math: Spring 2023, 2024, 
-Complexity Theory 1: Spring 2023
-Theory of Computation: Fall 2022
+Discrete Math: Spring 2023, 2024,   
+Complexity Theory 1: Spring 2023,   
+Theory of Computation: Fall 2022    
 
 ## Publications:
 All authors are in alphabetical order of last name.
