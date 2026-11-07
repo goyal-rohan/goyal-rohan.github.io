@@ -13,6 +13,23 @@ Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chenn
 
 My main interest is in error correction, proof systems, and more generally theoretical CS. I tend to enjoy most problems with flavours of combinatorics, algebra and randomization.
 
+## Selected Representative Publications:
+
+- **Explicit Reed-Solomon Subspace Designs: Optimal List and Line Decoding**<br>
+  with [Omar Alrabiah](https://scholar.google.com/citations?user=AZMV2qQAAAAJ&inst=3203679203499159833) and [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)<br>
+  [[ECCC](https://eccc.weizmann.ac.il/report/2026/262/)] [[arXiv](https://arxiv.org/abs/2610.36215)]
+
+- **The Dimension of Verifying Machine Learning**<br>
+  with [Guy Rothblum](https://guyrothblum.wordpress.com/)
+
+- **Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes**<br>
+  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/).<br>
+  <span style="color:#16a085">STOC 2026, Salt Lake City</span> [[ECCC](https://eccc.weizmann.ac.il/report/2025/166/)] [[ePrint](https://eprint.iacr.org/2025/2054)] [[Ethproofs call talk by Venkat](https://youtu.be/Dm-SaFFZS48?si=audrU4EMkOR9nrOE&t=6975)] [[Talk at TIFR](https://www.youtube.com/live/17KJo9eIsDc?si=rM_iyOcVxeGwDF9f)]
+
+- **Efficiently Batching Unambiguous Interactive Proofs**<br>
+  with [Bonnie Berger](https://people.csail.mit.edu/bab/), [Matthew Hong](https://people.csail.mit.edu/matth/), and [Yael Kalai](https://www.eecs.mit.edu/people/yael-kalai/).<br>
+  <span style="color:#16a085">FOCS 2025, Sydney</span> [[ECCC](https://eccc.weizmann.ac.il/report/2025/159/)] [[arXiv](https://arxiv.org/abs/2510.19075)] [[FOCS Video by Matt](https://youtu.be/cN4whoNd-kM?si=uYMrfqrPOXgGycln)]
+
 # [Subspace Designs: A Universal Tool for Derandomization](https://goyal-rohan.github.io/subspace-designs-focs/)<br>
   FOCS 2026 Workshop<br>
   Co-organized with [Joshua Brakensiek](https://jbrakensiek.github.io/) and [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/).
@@ -29,7 +46,9 @@ Discrete Math: Spring 2023, 2024,
 Complexity Theory 1: Spring 2023,   
 Theory of Computation: Fall 2022    
 
-## Publications:
+
+
+## All Publications:
 All authors are in alphabetical order of last name.
 
 # Preprints
@@ -108,6 +127,7 @@ with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](h
 ## Service:
 Subreviewed for CCC, FOCS, ITCS, RANDOM, SODA, STOC, and ACM Transcations on Algorithms.
 
+<!--
 ## News
 
 - **[November 2026]**: Organized a workshop on Subspace-Design codes at FOCS 2026 in New York! [Workshop Link](https://goyal-rohan.github.io/subspace-designs-focs/)
@@ -125,6 +145,7 @@ Subreviewed for CCC, FOCS, ITCS, RANDOM, SODA, STOC, and ACM Transcations on Alg
 - **[Apr. 2023]** Participated in EGMO 2023 as the Deputy Leader for the Indian team. [India at EGMO 2023](https://www.egmo.org/egmos/egmo12/countries/country35/)
 - **[Sept. 2021]** Started my undergraduate studies at CMI.
 - **[July 2021]** Represented India at IMO 2021.
+-->
 
 ## Olympiad and Outreach
 
