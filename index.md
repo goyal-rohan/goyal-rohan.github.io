@@ -13,7 +13,7 @@ Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chenn
 
 My main interest is in error correction, proof systems, and more generally theoretical CS. I tend to enjoy most problems with flavours of combinatorics, algebra and randomization.
 
-# *[Subspace Designs: A Universal Tool for Derandomization](https://goyal-rohan.github.io/subspace-designs-focs/)**<br>
+# [Subspace Designs: A Universal Tool for Derandomization](https://goyal-rohan.github.io/subspace-designs-focs/)<br>
   FOCS 2026 Workshop<br>
   Co-organized with [Joshua Brakensiek](https://jbrakensiek.github.io/) and [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/).
 
