@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a second-year PhD student in the [Theory of Computation Group](https://toc.csail.mit.edu/) at MIT, where I am extremely fortunate to be advised by Yael Tauman Kalai.
+I am a third-year PhD student in the [Theory of Computation Group](https://toc.csail.mit.edu/) at MIT, where I am extremely fortunate to be advised by [Yael Tauman Kalai](https://www.csail.mit.edu/person/yael-kalai).
 
-Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/). During my undergrad, I was lucky enough to be advised by [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/) and [Mrinal Kumar](https://mrinalkr.bitbucket.io/). I also spent summer 2024 in at [IRIF Paris](https://www.irif.fr/) working under [David Saulpic](https://www.normalesup.org/~saulpic/) on clustering algorithms. I will be spending summer 2026 interning with [Guy Rothblum](https://guyrothblum.wordpress.com/) at Apple's New York offices.
+Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chennai Mathematical Institute](https://www.cmi.ac.in/). During my undergrad, I was lucky enough to be advised by [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/) and [Mrinal Kumar](https://mrinalkr.bitbucket.io/). I also spent summer 2024 in at [IRIF Paris](https://www.irif.fr/) working under [David Saulpic](https://www.normalesup.org/~saulpic/) on clustering algorithms. I spent an incredible summer 2026 interning with [Guy Rothblum](https://guyrothblum.wordpress.com/) at Apple's New York offices working on verification tasks related to machine learning.
 
 
 ## Research Interests
@@ -16,8 +16,16 @@ My main interest is in error correction, proof systems, and more generally theor
 # Teaching (MIT):
 
 ## Fall 2026:
-- [6.S953: Topics in Error-Correcting Codes for Computer Science](https://codes-6s953.github.io/)
-with [Yael Tauman Kalai](https://www.csail.mit.edu/person/yael-kalai)
+
+- [6.S953: Topics in Error-Correcting Codes for Computer Science](https://codes-6s953.github.io/)<br>
+  with [Yael Tauman Kalai](https://www.csail.mit.edu/person/yael-kalai)
+
+# Activities:
+
+## [Subspace Designs: A Universal Tool for Derandomization](https://goyal-rohan.github.io/subspace-designs-focs/) (FOCS 2026 Workshop)
+
+with [Joshua Brakensiek](https://jbrakensiek.github.io/) and [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)
+
 
 # TAing at CMI:
 Discrete Math: Spring 2023, 2024,   
@@ -29,30 +37,58 @@ All authors are in alphabetical order of last name.
 
 # Preprints
 
+- **The Dimension of Verifying Machine Learning**<br>
+  with [Guy Rothblum](https://guyrothblum.wordpress.com/)
+
+- **Explicit Subspace Evasive Sets via Subspace Designs**<br>
+  with [Joshua Brakensiek](https://jbrakensiek.github.io/), [Yeyuan Chen](https://yeyuanch.github.io/), [Mahdi Cheraghchi](https://mahdi.ch/), [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/), [Aaron (Louie) Putterman](https://www.louieputterman.com/), and [Zihan Zhang](https://zihanzhang.owlstown.net/)
+
+- **Combinatorial limitations of list-decoding Reed-Solomon codes**<br>
+  with [Omar Alrabiah](https://scholar.google.com/citations?user=AZMV2qQAAAAJ&inst=3203679203499159833) and [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)<br>
+  [[ECCC](https://eccc.weizmann.ac.il/report/2026/304/)] [[arXiv](https://arxiv.org/abs/2611.07607)]
+
+- **Explicit Reed-Solomon Subspace Designs: Optimal List and Line Decoding**<br>
+  with [Omar Alrabiah](https://scholar.google.com/citations?user=AZMV2qQAAAAJ&inst=3203679203499159833) and [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)<br>
+  [[ECCC](https://eccc.weizmann.ac.il/report/2026/262/)]
+
+- **Improved LCL Equivalences and Curve Decoding Alphabet Sizes**<br>
+  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/), [Yihang (Kimi) Sun](https://scholar.google.com/citations?user=ZMNZ7x8AAAAJ&hl=en) and [Mary Wootters](https://sites.google.com/site/marywootters/)
+
 - **Improved analysis of list-decodability of random linear codes: It’s all about counting constraints**   
 with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)    
 [[ECCC](https://eccc.weizmann.ac.il/report/2026/074/)]
 
-- **Structure Theorems (and Fast Algorithms) for List Recovery of Subspace-Design Codes**   
-with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)             
-[[ECCC](https://eccc.weizmann.ac.il/report/2025/212/)] [[ArXiV](https://arxiv.org/abs/2512.08017)]  
+# 2027
+
+- **Unshardable Codes**<br>
+  with [Prashanth Amireddy](https://sites.google.com/view/prashanth-amireddy), [Yevgeniy Dodis](https://cs.nyu.edu/~dodis/), [Ethan Mook](https://ethanmook.com/), [Madhu Sudan](https://people.seas.harvard.edu/~madhusudan/), and [Daniel Wichs](https://www.ccs.neu.edu/home/wichs/).<br>
+  <span style="color:#16a085">ITCS 2027, Berkeley</span>
+
+- **Structure Theorems (and Fast Algorithms) for List Recovery of Subspace-Design Codes**<br>
+  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/).<br>
+  <span style="color:#16a085">ITCS 2027, Berkeley</span>
+  [[ECCC](https://eccc.weizmann.ac.il/report/2025/212/)] [[arXiv](https://arxiv.org/abs/2512.08017)]
 
 # 2026
+
+- **Exponentially improved explicit lossless rank dispersers over small fields**<br>
+  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/).<br>
+  <span style="color:#16a085">FSTTCS 2026, New Delhi</span>
 
 - **Explicit Constant-Alphabet Subspace Design Codes**        
 with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/) and [Jun-Ting (Tim) Hsieh](https://jthsieh.github.io/).     
 <span style="color:#16a085">FOCS 2026, New York</span>
-[[ECCC](https://eccc.weizmann.ac.il/report/2026/057/)] [[ArXiV](https://arxiv.org/abs/2604.15218v1)]
+[[ECCC](https://eccc.weizmann.ac.il/report/2026/057/)] [[arXiv](https://arxiv.org/abs/2604.15218v1)]
 
 - **Locality of Curve Decoding and Improved Proximity Gaps**        
 with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/), [Yihang (Kimi) Sun](https://scholar.google.com/citations?user=ZMNZ7x8AAAAJ&hl=en) and [Mary Wootters](https://sites.google.com/site/marywootters/).      
 <span style="color:#16a085">RANDOM 2026, Boston</span>
-[[ArXiV](https://arxiv.org/abs/2607.08516)]
+[[arXiv](https://arxiv.org/abs/2607.08516)]
 
 - **Fast list-recovery of univariate multiplicity and folded Reed-Solomon codes**    
 with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/), and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home).     
 <span style="color:#16a085">RANDOM 2026, Boston</span>
-[[ECCC](https://eccc.weizmann.ac.il/report/2025/194/)] [[ArXiV](https://arxiv.org/abs/2512.00248)]   
+[[ECCC](https://eccc.weizmann.ac.il/report/2025/194/)] [[arXiv](https://arxiv.org/abs/2512.00248)]
 
 - **Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes**    
 with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/).    
@@ -62,20 +98,21 @@ with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/).
 
 - **Efficiently Batching Unambiguous Interactive Proofs**     
   with [Bonnie Berger](https://people.csail.mit.edu/bab/), [Matthew Hong](https://people.csail.mit.edu/matth/), and [Yael Kalai](https://www.eecs.mit.edu/people/yael-kalai/).    
-  <span style="color:#16a085">FOCS 2025, Sydney</span> [[ECCC](https://eccc.weizmann.ac.il/report/2025/159/)] [[ArXiV](https://arxiv.org/abs/2510.19075)]  [[FOCS Video by Matt](https://youtu.be/cN4whoNd-kM?si=uYMrfqrPOXgGycln)]
+  <span style="color:#16a085">FOCS 2025, Sydney</span> [[ECCC](https://eccc.weizmann.ac.il/report/2025/159/)] [[arXiv](https://arxiv.org/abs/2510.19075)]  [[FOCS Video by Matt](https://youtu.be/cN4whoNd-kM?si=uYMrfqrPOXgGycln)]
 
 # 2024
   
 - **Fast list-decoding of univariate multiplicity and folded Reed-Solomon codes**    
 with [Prahladh Harsha](https://www.tcs.tifr.res.in/~prahladh/), [Mrinal Kumar](https://mrinalkr.bitbucket.io/), and [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home).    
-<span style="color:#16a085">FOCS 2024, Chicago</span> [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[ArXiV](https://arxiv.org/abs/2311.17841)] [[Simons Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)]        
+<span style="color:#16a085">FOCS 2024, Chicago</span> [[ECCC](https://eccc.weizmann.ac.il/report/2023/185/)] [[arXiv](https://arxiv.org/abs/2311.17841)] [[Simons Talk by Prahladh](https://www.youtube.com/live/t3AdyuYaPzI?si=Yalpe2fbju6czVSb)]
   
 
 ## Service:
-Subreviewed for STOC, FOCS, CCC, RANDOM and ACM Transcations on Algorithms.
+Subreviewed for CCC, FOCS, ITCS, RANDOM, SODA, STOC, and ACM Transcations on Algorithms.
 
 ## News
 
+- **[November 2026]**: Organized a workshop on Subspace-Design codes at FOCS 2026 in New York! [Workshop Link](https://goyal-rohan.github.io/subspace-designs-focs/)
 - **[May 2026 - August 2026]**: Interning at Apple New York with [Guy Rothblum](https://guyrothblum.wordpress.com/). 
 - **[January 2026]**: Visiting Chennai Mathematical Institute, Tata Institute of Fundamental Research, Mumbai.
 - **[December 2025]**: I will be at FOCS 2025 in Sydney!

@@ -6,3 +6,4 @@ Gemfile.lock
 .jekyll-cache
 git-update.sh
 assets/files/out/
+.preview/
