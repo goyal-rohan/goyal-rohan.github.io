@@ -13,19 +13,16 @@ Before this, I did my BSc.(Hons) in Mathematics and Computer Science from [Chenn
 
 My main interest is in error correction, proof systems, and more generally theoretical CS. I tend to enjoy most problems with flavours of combinatorics, algebra and randomization.
 
+# *[Subspace Designs: A Universal Tool for Derandomization](https://goyal-rohan.github.io/subspace-designs-focs/)**<br>
+  FOCS 2026 Workshop<br>
+  Co-organized with [Joshua Brakensiek](https://jbrakensiek.github.io/) and [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/).
+
 # Teaching (MIT):
 
 ## Fall 2026:
 
 - [6.S953: Topics in Error-Correcting Codes for Computer Science](https://codes-6s953.github.io/)<br>
   with [Yael Tauman Kalai](https://www.csail.mit.edu/person/yael-kalai)
-
-# Activities:
-
-## [Subspace Designs: A Universal Tool for Derandomization](https://goyal-rohan.github.io/subspace-designs-focs/) (FOCS 2026 Workshop)
-
-with [Joshua Brakensiek](https://jbrakensiek.github.io/) and [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)
-
 
 # TAing at CMI:
 Discrete Math: Spring 2023, 2024,   
@@ -49,10 +46,11 @@ All authors are in alphabetical order of last name.
 
 - **Explicit Reed-Solomon Subspace Designs: Optimal List and Line Decoding**<br>
   with [Omar Alrabiah](https://scholar.google.com/citations?user=AZMV2qQAAAAJ&inst=3203679203499159833) and [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)<br>
-  [[ECCC](https://eccc.weizmann.ac.il/report/2026/262/)]
+  [[ECCC](https://eccc.weizmann.ac.il/report/2026/262/)] [[arXiv](https://arxiv.org/abs/2610.36215)]
 
 - **Improved LCL Equivalences and Curve Decoding Alphabet Sizes**<br>
-  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/), [Yihang (Kimi) Sun](https://scholar.google.com/citations?user=ZMNZ7x8AAAAJ&hl=en) and [Mary Wootters](https://sites.google.com/site/marywootters/)
+  with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/), [Yihang (Kimi) Sun](https://scholar.google.com/citations?user=ZMNZ7x8AAAAJ&hl=en) and [Mary Wootters](https://sites.google.com/site/marywootters/)<br>
+  [[arXiv](https://arxiv.org/abs/2610.38862)]
 
 - **Improved analysis of list-decodability of random linear codes: It’s all about counting constraints**   
 with [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)    
