@@ -148,4 +148,4 @@ Please visit [my old blog](https://rgtdfg.blogspot.com/p/handouts.html) for a li
 Please check my [cv](assets/files/rohan-cv-short.pdf).
 
 -- 
-Website updated May 2026
+Website updated November 2026

@@ -80,23 +80,19 @@ If you hope to edit any files (e.g., `index.md`), you still need to copy them to
 
 ### Using Locally with Jekyll
 
-First, install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/). The install instructions can be found here: <https://jekyllrb.com/docs/installation/#guides>
-
-Then, clone this repository:
+From this repository's directory, run:
 
 ```bash
-git clone https://github.com/yaoyao-liu/minimal-light.git
-cd minimal-light
+./preview.sh
 ```
-Install and run:
 
-```bash
-bundle install
-bundle add webrick
-bundle exec jekyll server
-```
-View the live page using `localhost`:
-<http://localhost:4000>. You can get the HTML files in `_site` folder.
+Wait for `Server running`, then open <http://127.0.0.1:4000>. Keep the terminal running while you preview. Saving `index.md` rebuilds the page and refreshes the browser. Restart the command after editing `_config.yml`, and press `Ctrl+C` to stop it.
+
+The script uses the project-local Ruby in `.preview/ruby` when available, installs missing dependencies into `.preview/gems`, and starts Jekyll with live reload. The `.preview` and `_site` directories are ignored by Git. This command only serves a local preview; it does not commit, push, or deploy anything.
+
+On a new machine without `.preview/ruby`, first install a current Ruby and Bundler using the [Jekyll macOS setup instructions](https://jekyllrb.com/docs/installation/macos/). The site's dependencies cannot be installed with macOS's built-in Ruby 2.6. Then run `./preview.sh` to install the gems and start the server.
+
+If port 4000 is already in use, run `./preview.sh --port 4001` and open <http://127.0.0.1:4001> instead.
 
 ### Using the HTML version
 
